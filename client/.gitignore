@@ -52,5 +52,3 @@ __build__/**
 # IDE #
 .idea/
 *.swp
-
-yarn.lock
